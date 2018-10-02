@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SzocsSzabolcs_HF1</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="substract">-</string>
+    <string name="sum">+</string>
+    <string name="result">Result</string>
+    <string name="number2">Number2</string>
+    <string name="number1">Number1</string>
+    <string name="subtract">subtract</string>
+</resources>
