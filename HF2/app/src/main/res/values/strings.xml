@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HF2</string>
+    <string name="btnActTwo">Start Activity 2</string>
+    <string name="btnMain">Start MainActivity</string>
+    <string name="btnThirdAct">Start ThirdActivity</string>
+    <string name="textView_ActivityThree">Activity Three</string>
+    <string name="textView_ActivityTwo">Activity Two</string>
+    <string name="textView_MainActivity">Welcome on the first Activity!</string>
+</resources>
